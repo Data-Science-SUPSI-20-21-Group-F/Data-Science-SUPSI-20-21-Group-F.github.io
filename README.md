@@ -1,5 +1,5 @@
 # Trolley problem analisys
-An statistical analysis about the [Trolley problem](https://en.wikipedia.org/wiki/Trolley_problem) based and data gathered from [Moral Machine](https://www.moralmachine.net/)
+A statistical analysis about the [Trolley problem](https://en.wikipedia.org/wiki/Trolley_problem) based and data gathered from [Moral Machine](https://www.moralmachine.net/) website
 <p align="center">
   <img src="./doc/img/scenarios.png"/>
 </p> 
